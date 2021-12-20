@@ -89,4 +89,4 @@ Examples:<br>
 👌 drop<br>
 Usage: `/drop <winners> <prize> <channel>`<br>
 Examples:<br>
-`/drop 1w nitro #dr:`
+`/drop 1w nitro #drops`
