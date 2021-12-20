@@ -9,7 +9,7 @@ Examples:<br>
 `/ban @Kriptix sent memes in general chat`<br>
 
 
-👌 unban<br>
+<p style="text-align:right;">👌 unban </p> <br>
 Usage: `/unban <memberid>`<br>
 Examples:<br>
 `/unban 784777881912999976`<br>
