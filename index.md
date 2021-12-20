@@ -45,10 +45,10 @@ Examples: <br>
 👌 purge<br><br>
 Usage: `/purge <amount>`
 Examples: <br>
-`/purge 5` <br>
+`/purge 5` 
 
 
-###Giveaway Commands
+### Giveaway Commands
 👌 start<br>
 Usage: `/start <duration> <winners> <prize> <channel>`<br>
 Examples:<br>
