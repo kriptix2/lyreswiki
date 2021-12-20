@@ -41,9 +41,9 @@ Examples:<br>
 👌 slowmode<br>
 Usage: `/slowmode <delay>`<br>
 Examples: <br>
-`/slowmode 5`
+`/slowmode 5`<br>
 👌 purge<br><br>
-Usage: `/purge <amount>`
+Usage: `/purge <amount>`<br>
 Examples: <br>
 `/purge 5` 
 
