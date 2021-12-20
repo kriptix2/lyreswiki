@@ -1,6 +1,6 @@
 
 
-<h2> Moderation </h2> 
+<h2> Commands </h2> 
 
 👌 ban <br>
 Usage: `/ban <member> <reason>`<br>
@@ -9,7 +9,7 @@ Examples:<br>
 `/ban @Kriptix sent memes in general chat`<br>
 
 
-<p style="text-align:right;">👌 unban </p> <br>
+👌 unban  <br>
 Usage: `/unban <memberid>`<br>
 Examples:<br>
 `/unban 784777881912999976`<br>
@@ -66,7 +66,6 @@ Examples: <br>
 `/purge 5` 
 
 
-  <h2> Giveaway </h2>
 👌 start<br>
 Usage: `/start <duration> <winners> <prize> <channel>`<br>
 Examples:<br>
