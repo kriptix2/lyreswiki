@@ -1,6 +1,6 @@
 
-### Moderation Commands
 
+<h2> Moderation </h2> 
 
 👌 ban <br>
 Usage: `/ban <member> <reason>`<br>
@@ -66,8 +66,7 @@ Examples: <br>
 `/purge 5` 
 
 
-### Giveaway Commands
-
+  <h2> Giveaway </h2>
 👌 start<br>
 Usage: `/start <duration> <winners> <prize> <channel>`<br>
 Examples:<br>
